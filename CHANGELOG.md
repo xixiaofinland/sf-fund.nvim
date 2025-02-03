@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.9.1](https://github.com/xixiaofinland/sf.nvim/compare/v1.9.0...v1.9.1) (2025-02-03)
+
+
+### Bug Fixes
+
+* fix quotes and expand issue on highlight soql ([37b83c9](https://github.com/xixiaofinland/sf.nvim/commit/37b83c90fb1c8800511a3c17cadde84dbb47088c))
+* improve fetch org list performance ([eab38b9](https://github.com/xixiaofinland/sf.nvim/commit/eab38b921ab6e4ae22a3ecff9d645239384bbeea))
+* missing plugin parent dir causes unrecoverable failure ([ab92f64](https://github.com/xixiaofinland/sf.nvim/commit/ab92f647c26833ccabc3415fd2259da70f4281eb))
+* wrap target org in quotes for aliases with spaces ([38d625c](https://github.com/xixiaofinland/sf.nvim/commit/38d625c72f44fbba86ec8b93c2093911822fa127))
+
 ## [1.9.0](https://github.com/xixiaofinland/sf.nvim/compare/v1.8.0...v1.9.0) (2024-11-16)
 
 
